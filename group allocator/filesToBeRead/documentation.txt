@@ -1,0 +1,20 @@
+Group system documentation
+
+How we can make a group sorting system to solve the issues of group assignment:
+
+
+version 0.5
+***********
+
+to run the app, press play above, input names into the demo.txt file, or change the current directory
+takes txt document and puts it into an array
+when putting in names to the file, put them the way they have been put in the demo file
+Feel free shuffling
+
+
+enjoy :) , it can be modified for all manner of group sizes too
+feel free to also add some features on to it :)
+
+
+version 1
+**********
