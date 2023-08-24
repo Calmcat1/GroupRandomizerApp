@@ -13,3 +13,5 @@ when entering a new name, go to a new line
 Groups will be displayed on the console
 
 Version 0.5 has no ui, i am currently working on one
+
+Version 1(update) -> new ui was added, albeit very very simple
