@@ -18,3 +18,10 @@ feel free to also add some features on to it :)
 
 version 1
 **********
+
+Ui updated, finally done, version 1 ui, takes in the file path and the number of users per group
+to actually help in the randomizer process, ui has 2 windows
+
+
+
+

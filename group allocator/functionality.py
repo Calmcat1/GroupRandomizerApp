@@ -4,6 +4,8 @@
 import random
 
 
+
+
 #simple function for opening files and reading the contents and putting them to an array
 def fileArray(file):
   file = open(file)
@@ -19,13 +21,13 @@ def randomizeArray(fileResults):
 
     
 #simple function takes the results from the array above and puts it into groups
-def nameAllocator(results):
+def nameAllocator(results,groupNums):
   output = ''
   counter = 0
   groupNo = 1
   n = len(results)
   for i in range(n):
-    if counter <= 5:
+    if counter <= groupNums:
       output += results[i] + ' '
       counter += 1
     else:
@@ -41,19 +43,9 @@ def nameAllocator(results):
   
 
 
-# test cases
-
-print(fileArray('filesToBeRead/demo.txt'))
-
-print(nameAllocator(["Alice", "Bob", "Charlie", "David", "Emma", "Frank", "Grace", "Henry", "Isabella", "Jack", "Katherine", "Liam", "Mia", "Noah", "Olivia", "Peter", "Quinn", "Ryan", "Sophia", "Thomas"]
-))
-
-print(randomizeArray(['jim','here','what','are','you']))
-
 
 #application full function test case
 
-print(nameAllocator(randomizeArray(fileArray('filesToBeRead/demo.txt'))))
 
 
 
