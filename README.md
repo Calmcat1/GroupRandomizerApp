@@ -1,7 +1,7 @@
 # GroupRandomizerApp
 App that randomizes names and put them into a group of whichever group size
 
-To run the app, download this whole folder to your computer
+To run the app, download this whole folder to your computer and open the folder with vs Code
 
 To tweak the group size, go to the nameAllocator function, the if counter <= x (here is where group sizes are modified)
 
