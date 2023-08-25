@@ -28,7 +28,7 @@ performed some bug fixes that made the algorithim more accurate at putting names
 
 version 1.75
 ************
-optimized the readbility of the code by adding comma separations to the output
+optimized the readbility of the results by adding comma separations to the output
 
 For optimized
 
