@@ -3,6 +3,8 @@ App that randomizes names and put them into a group of whichever group size
 
 To run the app, download this whole folder to your computer and open the folder with vs Code
 
+*(in update 3 just download this whole folder and click on userInterface.exe to run the app)*
+
 To tweak the group size, go to the nameAllocator function, the if counter <= x (here is where group sizes are modified)
 
 Paste names to the demo text document and click on run.
