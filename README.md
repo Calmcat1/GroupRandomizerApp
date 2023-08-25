@@ -22,4 +22,5 @@ for the update one version, just go over to the UI file and click run, a ui will
 fixed the counter algorithim, for optimized group allocation
 
 #**version 2 -> replaced the Entry field with a combo Box for easier input of file paths**
+
 new feature -> combo box entry
