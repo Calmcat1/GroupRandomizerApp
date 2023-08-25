@@ -20,3 +20,6 @@ for the update one version, just go over to the UI file and click run, a ui will
 
 #**version 1.5 ->minor bug fixes**
 fixed the counter algorithim, for optimized group allocation
+
+**version 2 -> repalaced the Entry field with a combo Box for easier input of file paths**
+new feature -> combo box entry
