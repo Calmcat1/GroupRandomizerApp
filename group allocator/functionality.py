@@ -28,7 +28,7 @@ def nameAllocator(results,groupNums):
   n = len(results)
   for i in range(n):
     if counter < groupNums:
-      output += results[i] + ' '
+      output += results[i] + ','
       counter += 1
     else:
       groupNo += 1
