@@ -1,4 +1,4 @@
-# GroupRandomizerApp(UPDATE1)
+# GroupRandomizerApp(UPDATE2)
 App that randomizes names and put them into a group of whichever group size
 
 To run the app, download this whole folder to your computer and open the folder with vs Code
