@@ -18,5 +18,5 @@ Version 0.5 has no ui, i am currently working on one
 
 for the update one version, just go over to the UI file and click run, a ui will be made for you where you can input details
 
-**version 1.5 ->minor bug fixes**
+#**version 1.5 ->minor bug fixes**
 fixed the counter algorithim, for optimized group allocation
