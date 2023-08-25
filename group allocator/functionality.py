@@ -1,9 +1,6 @@
 # this file handles the functionality of the group
 #this app basically consists of 3 modules, the array maker, shuffler and group placer
-
 import random
-
-
 
 
 #simple function for opening files and reading the contents and putting them to an array
@@ -37,12 +34,6 @@ def nameAllocator(results,groupNums):
   return 'group1:\n' + output 
 
   
-
-
-
-  
-
-
 
 #application full function test case
 

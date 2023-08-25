@@ -20,15 +20,15 @@ version 1
 **********
 
 Ui updated, finally done, version 1 ui, takes in the file path and the number of users per group
-to actually help in the randomizer process, ui has 2 windows
+to actually help in the randomizer process, ui has 2 inputs and on click of generation, it opens a
+new window
 
 version 1.5
 ************
-performed some bug fixes that made the algorithim more accurate at putting names into a group
 
-version 1.75
-************
-optimized the readbility of the results by adding comma separations to the output
+performed some bug fixes  
+-> improved group placing accuracy
+
 
 
 
