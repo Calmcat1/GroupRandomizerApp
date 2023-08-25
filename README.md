@@ -1,4 +1,4 @@
-# GroupRandomizerApp(UPDATE2)
+# GroupRandomizerApp(UPDATE3)
 App that randomizes names and put them into a group of whichever group size
 
 To run the app, download this whole folder to your computer and open the folder with vs Code
@@ -30,3 +30,7 @@ fixed the counter algorithim, for optimized group allocation
 #**version 2 -> replaced the Entry field with a combo Box for easier input of file paths**
 
 new feature -> combo box entry
+
+#**version 3 -> made the file into an excecutable app**
+
+new feature -> App excecutable
