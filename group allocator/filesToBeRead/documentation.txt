@@ -30,9 +30,5 @@ performed some bug fixes
 -> improved group placing accuracy
 
 
-version 2
-**********
--> made a combo box entry for files in the files to be read dir, 
-copy and paste files in that directory for it to be accessible to the program
-the program takes in file types of extension .txt
+
 
